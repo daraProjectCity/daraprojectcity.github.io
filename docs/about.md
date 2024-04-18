@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Project Dara
+title: about
 permalink: /about/
 ---
 
