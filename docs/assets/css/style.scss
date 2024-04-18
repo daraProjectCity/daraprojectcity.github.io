@@ -5,11 +5,10 @@
 @import "minima/skins/{{ site.minima.skin | default: 'classic' }}",
   "minima/initialize";
 
-.site-title::before {
-  content: url("/assets/images/roundLogo64.png");
+.site-title::after {
+  content: url("/assets/images/leaf24.png");
   display: inline-block;
   position: relative;
-  width: 80px;
-  height: 32px;
-  top: 16px;
+  left: -6px;
+  top: 9px;
 }
