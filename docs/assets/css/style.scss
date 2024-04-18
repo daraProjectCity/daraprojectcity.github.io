@@ -6,10 +6,10 @@
   "minima/initialize";
 
 .site-title::before {
-  content: url("/assets/images/daraSmall.png");
+  content: url("/assets/images/roundLogo64.png");
   display: inline-block;
   position: relative;
-  width: 162px;
-  height: 80px;
-  top: 5px;
+  width: 80px;
+  height: 32px;
+  top: 16px;
 }
