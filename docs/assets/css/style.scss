@@ -6,9 +6,8 @@
   "minima/initialize";
 
 .site-title::after {
-  content: url("/assets/images/leaf24.png");
-  display: inline-block;
+  content: url("/assets/images/leaf16.png");
   position: relative;
-  left: -6px;
-  top: 9px;
+  left: -1.5em;
+  top: -1ex;
 }
