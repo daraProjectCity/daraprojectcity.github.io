@@ -1,15 +1,11 @@
 ---
 #
-# By default, content added below the "---" mark will appear in the home page
-# between the top bar and the list of recent posts.
 # To change the home page layout, edit the _layouts/home.html file.
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 #
 layout: home
 ---
 
-This is the text for the home page
+<img src="assets/images/dara.png" alt="dara logo" width="320" />
 
-## A subhead
-
-Should allow simple markdown to provide formatted text.
+Investigating data visualization to support people with [aphasia]() and [DLD]() making decisions.
