@@ -14,4 +14,4 @@ function myFunction(param) {
 
 And some more text.
 
-![Poster](2024-09-11-posterThumbnail.jpg)
+![Poster](/images/2024-09-11-posterThumbnail.jpg)
