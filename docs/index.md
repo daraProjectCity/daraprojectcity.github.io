@@ -35,3 +35,11 @@ layout: home
 - **Devane _et al_ (2024b)** [Data Visualization Experiences of People with Language Disability, a Qualitative Study](https://gicentre.org/cgvc24/paper1044_CRC.pdf)
 
 - **Devane _et al_ (2024c)** Exploring Data Visualization for People with Language Disabilities, _British Aphasiology Society Annual Conference, Leicester, UK_
+
+<div class="epsrcContainer">
+    <img src="/assets/images/epsrcCombined.png" alt="UKRI EPSRC logo" class="epsrcImage">
+    <p class="epsrcText">
+      Funded under the EPSRC’s call <i>Enabling Human Centred Decision Making through Data Visualisation</i>, 3 year
+      project, started 1st August 2023.
+    </p>
+  </div>
